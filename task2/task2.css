@@ -1,0 +1,28 @@
+body
+{
+    background-color: white;
+    font-family: 微软雅黑;
+    height: 100%;
+    margin: auto;
+}
+.sence
+{
+    background-color: #363636;
+    height:40px;
+}
+div.picture
+{
+    border: solid 1px;
+    margin: 20px 20px;
+    width: 50px;
+    height: px;
+    background: white;
+}
+.cute
+{
+    background-color: #333333;
+    text-align: center;
+    line-height: 60px;
+
+
+}
