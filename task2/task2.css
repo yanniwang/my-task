@@ -15,14 +15,21 @@ div.picture
     border: solid 1px;
     margin: 20px 20px;
     width: 50px;
-    height: px;
+    height: 290px;
     background: white;
 }
 .cute
 {
-    background-color: #333333;
     text-align: center;
     line-height: 60px;
-
-
+}
+.cat
+{
+    background-color: #2d6987;
+    text-align: center;
+    line-height: 60px;
+}
+.dog
+{
+    text-align: center;
 }
